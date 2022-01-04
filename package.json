@@ -1,0 +1,33 @@
+{
+  "name": "js-ds-algo",
+  "version": "1.0.0",
+  "description": "Data structures and algorithms implemented on JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint --fix ./src",
+    "lint-staged": "lint-staged",
+    "prepare": "husky install"
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint --fix"
+    ]
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.16.7",
+    "@babel/preset-env": "^7.16.7",
+    "babel": "^6.23.0",
+    "eslint": "^8.6.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-jest": "^25.3.4",
+    "eslint-plugin-prettier": "^4.0.0",
+    "husky": "^7.0.4",
+    "jest": "^27.4.5",
+    "lint-staged": "^12.1.5"
+  },
+  "type": "module"
+}
