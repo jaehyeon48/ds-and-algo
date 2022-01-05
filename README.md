@@ -6,4 +6,8 @@ This repo is for studying data structures and algorithms using JavaScript.
 
 ## Algorithms
 
-[Binary Search](https://github.com/jaehyeon48/ds-and-algo/tree/main/src/algorithms/searching/binarySearch)
+### Searching
+- [Binary Search](https://github.com/jaehyeon48/ds-and-algo/tree/main/src/algorithms/searching/binarySearch)
+
+### Sorting
+- [Bubble Sort](https://github.com/jaehyeon48/ds-and-algo/tree/main/src/algorithms/sorting/bubbleSort)
