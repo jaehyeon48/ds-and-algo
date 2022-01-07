@@ -1,4 +1,4 @@
-import bubbleSort from './BubbleSort';
+import bubbleSort from './bubbleSort';
 
 // Assuming ascending order
 

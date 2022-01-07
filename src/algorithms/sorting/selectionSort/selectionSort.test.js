@@ -1,4 +1,4 @@
-import selectionSort from './SelectionSort';
+import selectionSort from './selectionSort';
 
 // Assuming ascending order
 
